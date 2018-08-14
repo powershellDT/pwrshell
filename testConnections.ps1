@@ -1,0 +1,1 @@
+Test-NetConnection -ComputerName datorres-nbk2 -Port 3389
